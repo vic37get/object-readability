@@ -1,4 +1,4 @@
-# Legibilidade de Objetos de Licitação
+# ⚖ Legibilidade de Objetos de Licitação
 
 ## Objetivo
 
