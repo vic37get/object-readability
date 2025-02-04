@@ -1,0 +1,11 @@
+Flask
+flask_classful
+transformers
+torch
+langchain
+langchain-community
+langchain-huggingface
+bitsandbytes
+accelerate
+langserve[all]
+python-dotenv
